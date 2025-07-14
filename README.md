@@ -45,7 +45,7 @@
 
 ## 🚀 Projects
 
-### 🔗 [MiniSocial](https://github.com/MalakkSherif/minisocial)
+### 🔗 [MiniSocial](https://github.com/MalakkSherif/Mini-Social)
 
 A full-featured Java EE-based social networking backend application designed for collaborative interaction, clean modularity, and real-time messaging.
 

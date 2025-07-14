@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Malak+Sherif!" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=👋Hi%2C+I'm+Malak+Sherif!" alt="Typing intro" />
 </p>
 
 🎓 **Software Engineering student** at the *Faculty of Computers and Artificial Intelligence, Cairo University*  

@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋Hi%2C+I'm+Malak+Sherif!" alt="Typing intro" />
-</p>
+<h1 align="center">👋 Hi, I'm Malak Sherif!</h1>
 
 🎓 **Software Engineering student** at the *Faculty of Computers and Artificial Intelligence, Cairo University*  
 🔧 Experienced in **Java-based backend development**, building **RESTful APIs**, and integrating **databases**  
-🧪 Skilled in writing clean, testable code, performing **manual testing**, **API testing (Postman)**, and **automated testing** using **Selenium** and **TestNG**
-
-
-
+🧪 Skilled in writing clean, testable code, performing **manual testing**, **API testing (Postman)**, and **automated testing** using **Selenium** and **TestNG**  
 
 ---
 
@@ -17,6 +12,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,6 +21,10 @@
 ### 🧰 Frameworks & Tools  
 ![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF4C1E?style=for-the-badge&logo=testng&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -70,13 +71,9 @@ A full-featured Java EE-based social networking backend application designed for
 ## 📈 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=MalakkSherif&show_icons=true&theme=tokyonight" alt="Malak's GitHub Stats" />
-  <br>
   <img src="https://streak-stats.demolab.com?user=MalakkSherif&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
-
 
 ---
 

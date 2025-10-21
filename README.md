@@ -1,8 +1,16 @@
 <h1 align="center">👋 Hi, I'm Malak Sherif!</h1>
 
+## 💫 About Me  
+
 🎓 **Software Engineering student** at the *Faculty of Computers and Artificial Intelligence, Cairo University*  
-🔧 Experienced in **Java-based backend development**, building **RESTful APIs**, and integrating **databases**  
-🧪 Skilled in writing clean, testable code, performing **manual testing**, **API testing (Postman)**, and **automated testing** using **Selenium** and **TestNG**  
+
+🔧 Experienced in **Java-based backend development** (Spring Boot, Java EE), building **RESTful APIs**, and integrating **databases**  
+
+💻 Proficient in **MEAN stack development** and building scalable, high-quality applications  
+
+🧪 Skilled in writing **clean, testable code**, performing **manual testing**, **API testing (Postman)**, and **automation testing** using **Selenium** and **TestNG**  
+
+⚡ Passionate about **problem-solving**, **software quality**, and **continuous improvement**
 
 ---
 
